@@ -1,0 +1,15 @@
+{
+  "name": "url2pdf",
+  "version": "1.0.0",
+  "description": "webPage to Pdf converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saiffff",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^19.7.5"
+  }
+}
